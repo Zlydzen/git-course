@@ -1,2 +1,2 @@
-# git and git hum course
+# git and git hub course
 hello git
